@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  - 🔭 I’m currently working on Front-end web development.
+  - 🌱 I’m currently learning Programming Languages.
+  -  👯 My current goal is to become a full stack web developer.
+  -  ⚡ Fun facts: Reading, travelling, Cycling, Painting.
