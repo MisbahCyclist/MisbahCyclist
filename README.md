@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, Misbah Kanwal is there 👋
 
 <!--
 **MisbahCyclist/MisbahCyclist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,3 +18,9 @@ Here are some ideas to get you started:
   - 🌱 I’m currently learning Programming Languages.
   -  👯 My current goal is to become a full stack web developer.
   -  ⚡ Fun facts: Reading, travelling, Cycling, Painting.
+
+### GitHub Analytics
+<br>
+
+![Misbah github stats](https://github-readme-stats.vercel.app/api?username=MisbahCyclist&count_private=true&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MisbahCyclist&layout=compact&langs_count=12)
